@@ -1,0 +1,14 @@
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\obj\Debug\netcoreapp3.1\IT-Sec.csproj.AssemblyReference.cache
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\obj\Debug\netcoreapp3.1\IT-Sec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\obj\Debug\netcoreapp3.1\IT-Sec.AssemblyInfoInputs.cache
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\obj\Debug\netcoreapp3.1\IT-Sec.AssemblyInfo.cs
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\obj\Debug\netcoreapp3.1\IT-Sec.csproj.CoreCompileInputs.cache
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\bin\Debug\netcoreapp3.1\IT-Sec.exe
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\bin\Debug\netcoreapp3.1\IT-Sec.deps.json
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\bin\Debug\netcoreapp3.1\IT-Sec.runtimeconfig.json
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\bin\Debug\netcoreapp3.1\IT-Sec.runtimeconfig.dev.json
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\bin\Debug\netcoreapp3.1\IT-Sec.dll
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\bin\Debug\netcoreapp3.1\IT-Sec.pdb
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\obj\Debug\netcoreapp3.1\IT-Sec.dll
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\obj\Debug\netcoreapp3.1\IT-Sec.pdb
+C:\Users\malte\source\repos\IT-Sec\IT-Sec\obj\Debug\netcoreapp3.1\IT-Sec.genruntimeconfig.cache
